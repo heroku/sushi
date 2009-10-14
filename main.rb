@@ -33,7 +33,7 @@ __END__
     h1 {
 		position: absolute;
 		top: 50%;
-		margin-top: -161px;
+		margin-top: -200px;
 		left: 0;
 		width: 100%;
     }
