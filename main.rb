@@ -50,5 +50,26 @@ __END__
     <h1>
         <img src="fugu.png" alt="fugu" border="0"/>
     </h1>
+
+    <!-- loopfuse -->
+    <script src="http://loopfuse.net/webrecorder/js/listen.js" type="text/javascript"></script>
+    <script type="text/javascript">
+    _lf_cid = "LF_024e931f";
+    _lf_remora();
+    </script>
+
+    <!-- google analytics -->
+
+    <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script type="text/javascript">
+    try{
+    var pageTracker = _gat._getTracker("UA-2989055-1");
+    pageTracker._setDomainName(".heroku.com");
+    pageTracker._trackPageview();
+    } catch(err) {}
+    </script>
   </body>
   </html>
